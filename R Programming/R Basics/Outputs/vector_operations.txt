@@ -1,0 +1,4 @@
+Sum:  6 8 10 
+Difference:  -4 -4 -4 
+Multiply (element by element):  5 12 21 
+Division:  0.2 0.3333333 0.4285714

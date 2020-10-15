@@ -1,0 +1,7 @@
+Sum of v1:  6 
+Mean of v1:  2 
+Standard Deviationof v1:  1 
+Maximum of v1:  3 
+Minimum of v1:  1 
+Product v1:  6 
+Product v2:  210
