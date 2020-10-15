@@ -1,0 +1,12 @@
+Addition Results are:
+ 3 111 25.3 
+Subtraction Results are:
+ 2 15 
+Division Results are:
+ 0.6666667 0.5 
+Power of Results are:
+ 8 256 
+BODMAS of Results are:
+ 225 2600 
+Modular (Division Remainder) Results are:
+ 2.5 1 1.25 2
