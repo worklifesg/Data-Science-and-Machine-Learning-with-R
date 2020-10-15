@@ -1,0 +1,9 @@
+Case 1: 5>6 FALSE 
+Case 2: 5<6 TRUE 
+Case 3: 5<=6 TRUE 
+Case 4: 5>=5 TRUE 
+Case 5: 2==3 FALSE 
+Case 6: 2!=4 TRUE 
+Case 7: 2!=2 FALSE 
+Case 8: (v <- 2), v = 2 
+Case 9: v < -1 FALSE
