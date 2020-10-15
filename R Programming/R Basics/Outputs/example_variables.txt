@@ -1,0 +1,5 @@
+Variable:  100 
+bank:  1000 
+Account:  100 
+Deposit:  20 
+Account (modified):  120
