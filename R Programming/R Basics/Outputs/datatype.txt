@@ -1,0 +1,12 @@
+a:  hello 
+Datatype:  character 
+b:  hello 
+Datatype:  character 
+c:  12 
+Datatype:  numeric 
+d:  2.2 
+Datatype:  numeric 
+e:  TRUE 
+Datatype:  logical 
+f:  FALSE 
+Datatype:  logical
