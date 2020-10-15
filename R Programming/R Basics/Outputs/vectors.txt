@@ -1,0 +1,6 @@
+nvec:  1 2 3 4 5 
+Datatype:  numeric 
+cvec:  U S A 
+Datatype:  character 
+lvec:  TRUE FALSE 
+Datatype:  logical

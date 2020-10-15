@@ -1,0 +1,8 @@
+v1:  1 20 40 
+Datatype:  numeric 
+v2:  0 20 40 
+Datatype:  numeric 
+v3:  U S TRUE 
+Datatype:  character 
+v4:  U S 20 30 
+Datatype:  character
